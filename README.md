@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mwanaisha salim aka zero_ishah
 - 👀 I’m interested in being a fullstack developer
-- 🌱 I’m currently learning how to create and design websites
+- 🌱 currently  I  create and design websites
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me at mwanaishabayaa@gmail.com
 
